@@ -1,0 +1,12 @@
+paths:
+  data: "data/sample_facebook_ads.csv"
+  logs: "logs/"
+  reports: "reports/"
+
+thresholds:
+  low_ctr: 0.01
+  fatigue_drop_pct: 0.20
+  roas_warning: 1.5
+
+seed: 42
+api_key: api_key
