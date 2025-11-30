@@ -1,0 +1,37 @@
+[
+  {
+    "headline": "Holiday Deals That Warm Up Your Winter",
+    "body": "Stock up on cozy essentials and save big before the season ends. Comfort meets style at the perfect price.",
+    "cta": "Shop Winter Deals",
+    "angle": "value",
+    "confidence": 0.87
+  },
+  {
+    "headline": "Last Chance to Grab Cozy Holiday Favorites",
+    "body": "Our best-selling winter pieces are almost gone. Don’t miss out on limited-time holiday savings.",
+    "cta": "Claim Your Offer",
+    "angle": "urgency",
+    "confidence": 0.84
+  },
+  {
+    "headline": "See Why Thousands Love Our Winter Essentials",
+    "body": "Shoppers rave about the comfort and quality of our holiday collection. Discover the pieces everyone is talking about.",
+    "cta": "Shop Best Sellers",
+    "angle": "social proof",
+    "confidence": 0.89
+  },
+  {
+    "headline": "Premium Winter Styles Made for Everyday Comfort",
+    "body": "Experience warm, durable essentials crafted for all-day wear. Elevate your winter wardrobe effortlessly.",
+    "cta": "Explore the Collection",
+    "angle": "quality",
+    "confidence": 0.86
+  },
+  {
+    "headline": "Holiday Exclusives You’ll Regret Missing",
+    "body": "Cozy, stylish, limited. Get early access to winter favorites before they disappear for good.",
+    "cta": "Get Early Access",
+    "angle": "FOMO",
+    "confidence": 0.88
+  }
+]
